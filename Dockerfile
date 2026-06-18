@@ -1,5 +1,5 @@
 FROM alpine:latest
-ARG ZIG_VERSION=0.15.1
+ARG ZIG_VERSION=0.16.0
 
 WORKDIR /root
 
